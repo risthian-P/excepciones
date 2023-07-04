@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// Fig. 13.1: DivisionEntreCeroSinManejoDeExcepciones.java
+// Una aplicación que trata de realizar una división entre cero.
 public class principal {
     public static int cociente( int numerador, int denominador )
     {
